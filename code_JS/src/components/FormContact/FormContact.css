@@ -1,0 +1,80 @@
+#l2 {
+    display: block;
+    margin-top: 20px;
+    letter-spacing: 1px;
+} /*label*/
+
+.formulario {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    width: 403px;
+    color: #666666;
+    font-family: Arial;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    background-color: #ffffff;
+    border-left-color: #e8e8e8;
+    border-left-style: solid;
+    border-right-color: #e8e8e8;
+    border-right-style: solid;
+    border-top-color: #e8e8e8;
+    border-top-style: solid;
+    border-bottom-color: #e8e8e8;
+    border-bottom-style: solid;
+    border-radius: 3px;
+}
+
+form {
+    margin: 10%;
+    width: 300px;
+}
+
+#inputF {
+    width: 320px;
+    height: 27px;
+    background: #ffffff;
+    border: 2px solid #f6f6f6;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #666666;
+}
+
+textarea {
+    width: 320px;
+    height: 27px;
+    background: #ffffff;
+    border: 2px solid #f6f6f6;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #666666;
+}
+
+textarea {
+    height: 150px;
+}
+
+#submit {
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #4a40fc;
+    font-weight: bold;
+    padding: 0px !important;
+
+    width: 320px;
+    height: 27px;
+    margin-top: 5px;
+    font-size: 12px;
+
+}
+
+#h1 {
+    font-size: 20px;
+    text-align: center;
+    width: 320px;
+}

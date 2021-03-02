@@ -1,0 +1,30 @@
+.carousel .slide {
+    background: #fff !important;
+}
+
+/*.carousel .control-dots {
+    margin: 60px auto !important;
+}*/
+
+.carousel li.slide img {
+    height: 300px;
+}
+
+.carousel.carousel-slider .control-arrow {
+    background: black;
+}
+
+.carousel .slide .legend {
+    background: none !important;
+}
+
+.carousel-root {
+    outline: none;
+}
+
+.carousel-fake {
+    position: relative;
+    width: 420px!important;
+}
+
+ 

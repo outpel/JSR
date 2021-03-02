@@ -1,0 +1,22 @@
+.root {
+    flex-grow: 3,
+}
+
+.main1 {
+    width: 500px !important;
+    height: 900px !important;
+    box-sizing: border-box;
+    margin-bottom: 2px;
+    box-shadow: none !important;
+}
+.main2 {
+    width: 720px !important;
+    height: 900px !important;
+    box-sizing: border-box;
+    box-shadow: none !important;
+}
+
+.paper_prim {
+    text-align: center;
+    color: black !important;
+}

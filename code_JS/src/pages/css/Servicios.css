@@ -1,0 +1,18 @@
+.root{
+    flex-grow: 1;
+}
+
+.it1{
+    padding: 7px; 
+    text-align: center;
+    color:black;
+    margin-bottom: 10px;
+}
+
+.mains {
+    width: 410px !important;
+    height: 500px !important;
+    box-sizing: border-box;
+    margin-bottom: 2px;
+    box-shadow: none !important;
+}

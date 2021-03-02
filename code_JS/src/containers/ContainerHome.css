@@ -1,0 +1,11 @@
+.regionesChile {
+    opacity: 1;
+    z-index: 5;
+    position: absolute;
+}
+
+    .regionesChile:hover {
+        opacity: 0.6;
+        z-index: 5;
+        position: absolute;
+    }

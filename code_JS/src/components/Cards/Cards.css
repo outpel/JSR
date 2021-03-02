@@ -1,0 +1,35 @@
+.root {
+    flex-grow: 3,
+}
+
+.main {
+    width: 360px; 
+    margin: 1.8em; 
+    box-sizing: border-box;
+}
+
+
+.paper_prim {
+    padding: 3px 3px 3px 3px;
+    text-align: center;
+    color: #878f99;
+}
+
+.paper_sec {
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    color: #878f99;
+}
+
+.media {
+    height: 200px;
+}
+
+#t {
+    font-family: Vegur, 'PT Sans', sans-serif;
+    font-weight: bold;
+}
+#p {
+    font-family: Vegur, 'PT Sans', sans-serif;
+    font-size: 20px;
+}

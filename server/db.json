@@ -1,0 +1,927 @@
+{
+  "propiedades": [
+    {
+      "id": 0,
+      "tittle": "Campo Lindo",
+      "price": "900.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://m.dw.com/image/16433178_401.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://www.caracteristicas.co/wp-content/uploads/2016/07/caballos-en-campo-e1559427850322.jpg",
+        "https://d500.epimg.net/cincodias/imagenes/2020/03/12/opinion/1584022472_097700_1584022587_noticia_normal.jpg",
+        "https://e00-elmundo.uecdn.es/elmundo/imagenes/2009/04/13/1239620510_0.jpg",
+        "https://www.hola.com/imagenes/decoracion/20190814145597/casa-campo-piedra-decoracion-moderna/0-700-235/casa-campo-1m-m.jpg"
+      ],
+      "direccion": "Osorno, Región de los Lagos",
+      "coordenadasP": [ -40.769757, -72.471750 ],
+      "info": {
+        "Tipo": "Parcela",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "2",
+      "graf1Content": "Producción de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 1,
+      "tittle": "Campo Puyehue",
+      "price": "110.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://storage.googleapis.com/portalfruticola/2020/01/8dc0c7b7-maquinaria-campo-adobestock_188819540.jpeg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://www.caracteristicas.co/wp-content/uploads/2016/07/caballos-en-campo-e1559427850322.jpg",
+        "https://d500.epimg.net/cincodias/imagenes/2020/03/12/opinion/1584022472_097700_1584022587_noticia_normal.jpg",
+        "https://e00-elmundo.uecdn.es/elmundo/imagenes/2009/04/13/1239620510_0.jpg",
+        "https://www.hola.com/imagenes/decoracion/20190814145597/casa-campo-piedra-decoracion-moderna/0-700-235/casa-campo-1m-m.jpg"
+      ],
+      "direccion": "Osorno, Región de los Lagos",
+      "coordenadasP": [ -40.769797, -72.471740 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 2,
+      "tittle": "Casa Osorno",
+      "price": "120.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqzMlk2wCZ4nKBkKV-Or1g3ffioxvLLM5nVA&usqp=CAU",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -40.575258, -73.168560 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 3,
+      "tittle": "Fundo Productivo",
+      "price": "130.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://st.depositphotos.com/1105053/3316/i/600/depositphotos_33168549-stock-photo-lush-agricultural-field-of-lettuce.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -39.829850, -73.233907 ],
+      "info": {
+        "Tipo": "Campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Valdivia, Region de los Ríos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "14"
+    },
+    {
+      "id": 4,
+      "tittle": "Departamento Lomas",
+      "price": "640.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://www.hogares.cl/wp-content/uploads/2018/06/02.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459351, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "2",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 5,
+      "tittle": "Propiedad Genérica",
+      "price": "150.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://cdni.rt.com/actualidad/public_images/2017.11/article/59fb4ef008f3d91e4b8b4567.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459341, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 6,
+      "tittle": "Propiedad Genérica",
+      "price": "160.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://cdni.rt.com/actualidad/public_images/2017.11/article/59fb4ef008f3d91e4b8b4567.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459371, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 7,
+      "tittle": "Propiedad Genérica",
+      "price": "170.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://cdni.rt.com/actualidad/public_images/2017.11/article/59fb4ef008f3d91e4b8b4567.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459361, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 9,
+      "tittle": "Propiedad Genérica",
+      "price": "190.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://cdni.rt.com/actualidad/public_images/2017.11/article/59fb4ef008f3d91e4b8b4567.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459371, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 10,
+      "tittle": "Propiedad Genérica",
+      "price": "200.000.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://cdni.rt.com/actualidad/public_images/2017.11/article/59fb4ef008f3d91e4b8b4567.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459361, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "1",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    },
+    {
+      "id": 11,
+      "tittle": "Parcela Octay",
+      "price": "1.320.000",
+      "smallContent": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "imgBanner": "https://www.hola.com/imagenes/decoracion/20190814145597/casa-campo-piedra-decoracion-moderna/0-700-235/casa-campo-1m-m.jpg",
+      "galery": [
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg",
+        "https://m.dw.com/image/16433178_401.jpg"
+      ],
+      "coordenadasP": [ -41.459371, -72.959090 ],
+      "info": {
+        "Tipo": "campo",
+        "m2": "4000",
+        "Precioxm2": "2.000.000"
+      },
+      "direccion": "Osorno, Region de los Lagos",
+      "infoGeneral": "En el corazón del sector oriente, con excelente conectividad, a pasos de supermercados, colegios, áreas verdes encontramos esta preciosa propiedad emplazada en 315 metros cuadrados de terreno y 183 metros cuadrados construidos. En su primer nivel cuenta con hall de acceso, living comedor amplios y luminosos,cocina remodelada con comedor diario y logia, baño de visita, sala de estar o escritorio, dormitorio principal en suite, con terraza privada, gran cantidad de closet. En su segundo nivel cuenta con tres dormitorios bien iluminados, baño completo, sala de estar.Cuenta con jardín interior integrado a un hermoso y amplio quincho para esos largos y fríos días de invierno. Patio de servicio y estacionamiento. Ventanas termopanel y calefacción central a petroleo. Precio Conversable.",
+      "category": "2",
+      "graf1Content": "Produccion de Papas",
+      "graf1": [
+        {
+          "anio": "2016",
+          "cantidad": "456"
+        },
+        {
+          "anio": "2017",
+          "cantidad": "566"
+        },
+        {
+          "anio": "2018",
+          "cantidad": "786"
+        },
+        {
+          "anio": "2019",
+          "cantidad": "1056"
+        },
+        {
+          "anio": "2020",
+          "cantidad": "346"
+        },
+        {
+          "anio": "2021",
+          "cantidad": "756"
+        }
+      ],
+      "graf2": [
+        {
+          "material": "Agua",
+          "porcentaje": "20"
+        },
+        {
+          "material": "Bosque",
+          "porcentaje": "40"
+        },
+        {
+          "material": "Planicie",
+          "porcentaje": "30"
+        },
+        {
+          "material": "Fango",
+          "porcentaje": "10"
+        }
+      ],
+      "region": "10"
+    }
+  ],
+
+
+  "regiones": [
+    {
+      "region_id": "15",
+      "region": "Arica y Parinacota",
+      "coordenadasR": [ -18.475, -70.314444 ],
+      "img": "http://localhost/assets/Arica.png",
+      "css": {
+        "left": "152px",
+        "top": "191px"
+      }
+    },
+    {
+      "region_id": "1",
+      "region": "Tarapaca",
+      "coordenadasR": [ -20.283333, -69.333333 ],
+      "img": "http://localhost/assets/Tarapaca.png",
+      "css": {
+        "left": "156px",
+        "top": "242px"
+      }
+    },
+    {
+      "region_id": "2",
+      "region": "Antofagasta",
+      "coordenadasR": [ -23.644167, -70.410833 ],
+      "img": "http://localhost/assets/Antofagasta.png",
+      "css": {
+        "left": "143px",
+        "top": "312px"
+      }
+    },
+    {
+      "region_id": "3",
+      "region": "Atacama",
+      "coordenadasR": [ -27.366667, -70.332222 ],
+      "img": "http://localhost/assets/Atacama.png",
+      "css": {
+        "left": "118px",
+        "top": "469px"
+      }
+    },
+    {
+      "region_id": "4",
+      "region": "Coquimbo",
+      "coordenadasR": [ -29.907778, -71.254167 ],
+      "img": "http://localhost/assets/Coquimbo.png",
+      "css": {
+        "left": "112px",
+        "top": "600px"
+      }
+    },
+    {
+      "region_id": "5",
+      "region": "Valparaiso",
+      "coordenadasR": [ -33.063056, -71.639444 ],
+      "img": "http://localhost/assets/Valparaiso.png",
+      "css": {
+        "left": "113px",
+        "top": "701px"
+      }
+    },
+    {
+      "region_id": "13",
+      "region": "Metropolitana",
+      "coordenadasR": [ -33.437778, -70.650278 ],
+      "img": "http://localhost/assets/Metropolitana.png",
+      "css": {
+        "left": "119px",
+        "top": "736px"
+      }
+    },
+    {
+      "region_id": "6",
+      "region": "O'Higgins",
+      "coordenadasR": [ -34.371944, -71.124528 ],
+      "img": "http://localhost/assets/Ohiggins.png",
+      "css": {
+        "left": "105px",
+        "top": "769px"
+      }
+    },
+    {
+      "region_id": "7",
+      "region": "Maule",
+      "coordenadasR": [ -35.426667, -71.671667 ],
+      "img": "http://localhost/assets/Maule.png",
+      "css": {
+        "left": "87px",
+        "top": "801px"
+      }
+    },
+    {
+      "region_id": "16",
+      "region": "Nuble",
+      "coordenadasR": [ -36.616667, -71.95 ],
+      "img": "http://localhost/assets/Nuble.png",
+      "css": {
+        "left": "324px",
+        "top": "191px"
+      }
+    },
+    {
+      "region_id": "8",
+      "region": "BioBio",
+      "coordenadasR": [ -36.772778, -73.063056 ],
+      "img": "http://localhost/assets/BioBio.png",
+      "css": {
+        "left": "302px",
+        "top": "210px"
+      }
+    },
+    {
+      "region_id": "9",
+      "region": "La Araucania",
+      "coordenadasR": [ -38.9, -72.666667 ],
+      "img": "http://localhost/assets/Araucania.png",
+      "css": {
+        "left": "307px",
+        "top": "250px"
+      }
+    },
+    {
+      "region_id": "14",
+      "region": "Los Rios",
+      "coordenadasR": [ -39.808333, -73.241667 ],
+      "img": "http://localhost/assets/Rios.png",
+      "css": {
+        "left": "306px",
+        "top": "314px"
+      }
+    },
+    {
+      "region_id": "10",
+      "region": "Los Lagos",
+      "coordenadasR": [ -41.471667, -72.936667 ],
+      "img": "http://localhost/assets/Lagos.png",
+      "css": {
+        "left": "294px",
+        "top": "346px"
+      }
+    },
+    {
+      "region_id": "11",
+      "region": "Aysen",
+      "coordenadasR": [ -45.57, -72.066111 ],
+      "img": "http://localhost/assets/Aysen.png",
+      "css": {
+        "left": "266px",
+        "top": "471px"
+      }
+    },
+    {
+      "region_id": "12",
+      "region": "Magallanes",
+      "coordenadasR": [ -53.1625, -70.9225 ],
+      "img": "http://localhost/assets/Magallanes.png",
+      "css": {
+        "left": "273px",
+        "top": "652px"
+      }
+    }
+  ]
+}
